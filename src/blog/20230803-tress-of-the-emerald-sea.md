@@ -12,7 +12,7 @@ In a galaxy far far away, on a planet with twelve very unique pentagonal shaped 
 
 <figure><img src="/images/tress.jpg" width="600" alt="Tress on the Emerald Sea"><figcaption>Artwork by Howard Lyon.</figcaption></figure>
 
-She was not always a captain though. She started her life as a simple peasant who cleaned windows for a living and was actually called Glorf. She was happy on her island and never saw the need to cross an ocean. But that need changed very quickly once her friend Charlie was kidnapped by a sorceress who happened to live on an island in the most dangerous seas of all twelve. 
+She was not always a captain though. She started her life as a simple peasant who cleaned windows for a living and was actually called Glorf. She was happy on her island and never saw the need to cross an ocean. But that need changed very quickly once her friend Charlie was kidnapped by a sorceress who happened to live on an island in the most dangerous of the twelve seas. 
 
 Tress is the main character of the book Tress of the Emerald Sea, a book written by Brandon Sanderson. Brandon wrote it as a hobby project for his wife during the Covid lockdowns. For his fans, this was a total surprise. And he not only wrote this book, he also wrote three others in secret. With these books Brandon created the most successful Kickstarter of all time.
 
