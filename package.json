@@ -3,13 +3,15 @@
 		"start": "run-p clean start:*",
 		"start:eleventy": "eleventy --serve",
 		"start:postcss": "postcss src/styles/*.css --dir _site --watch",
-        "quiet": "run-p clean quiet:*",
+		"quiet": "run-p clean quiet:*",
 		"quiet:eleventy": "eleventy --serve --quiet",
 		"quiet:postcss": "postcss src/styles/*.css --dir _site --watch",
 		"build": "run-s clean build:eleventy build:postcss",
 		"build:eleventy": "cross-env ELEVENTY_PRODUCTION=true FONTCONFIG_PATH=. eleventy",
 		"build:postcss": "cross-env NODE_ENV=production postcss src/styles/*.css --dir _site",
-		"clean": "rimraf _site"
+		"clean": "rimraf _site",
+		"test": "jest",
+		"test:watch": "jest --watch"
 	},
 	"devDependencies": {
 		"@11ty/eleventy": "^2.0.0",
@@ -26,10 +28,13 @@
 		"postcss-cli": "^10.1.0",
 		"postcss-import": "^15.0.1",
 		"rimraf": "^3.0.2",
-		"tailwindcss": "^3.2.4"
+		"jest": "^29.0.0"
 	},
 	"private": true,
 	"keywords": [],
 	"name": "kbsite",
-	"description": ""
+	"description": "",
+	"optionalDependencies": {
+		"sharp": "^0.34.2"
+	}
 }
