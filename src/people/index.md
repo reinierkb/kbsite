@@ -16,8 +16,12 @@ These are the people of Kirk & Blackbeard:
 
 ## [Reinier Ladan](/people/reinier/)
 
+## [Annelies Lambrechtsen](/people/annelies/)
+
 ## [David Linssen](/people/david/)
 
 ## [Younes Riad](/people/younes/)
+
+## [Remco Schmieman](/people/remco/)
 
 ## [Andreas Willemse](/people/andreas/)
