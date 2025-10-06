@@ -10,6 +10,8 @@ Don't let his open, direct, and humorous communication style misguide you; Remco
 ### Expertise: 
 Agile Transformation Coaching, Leadership Coaching, Team Coaching, Agile Training, DevOps, Scaling Agile
 
+> I worked with Remco at the UWV on their IT transformation and got to know him as a skilled Agile coach who, with verve, decisiveness and humor, brings more than what is asked. His IT knowledge combined with his experience and knowledge of organizational change skills and Agile working deliver a lot of value.— Harm Jan Brondijk, RTE, UWV.
+
 ### Three things Remco worked on:
 * [CoronaMelder](https://www.digitaleoverheid.nl/achtergrondartikelen/coronamelder-app-nieuw-wapen-tegen-virus/) As part of the Dutch government’s response to COVID-19, Remco played a key role in the development and launch of the CoronaMelder app. As Scrum Master and Transition Manager, he guided the 10-15 person software development team to a successful launch under immense pressure, ensuring the app met the highest standards of effectivity, security, privacy, and accessibility.
 * [KvK,the Dutch Chamber of Commerce](https://www.kvk.nl) Remco coached two divisions and their management teams through an agile transformation. One division was responsible for internal office automation and IT infrastructure. The other directorate supplies services to starting entrepreneurs. Remco created and implemented a value stream transition plan. He also coached leadership teams, Scrum Masters and Product Owners, coached teams in feedback and conflict management,launched multidisciplinary teams, set up Obeya rooms and facilitated agile ceremonies at corporate board level.
